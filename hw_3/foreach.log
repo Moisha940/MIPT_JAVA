@@ -1,0 +1,23 @@
+2024-05-27 16:34:52 INFO  Starting ApplicationSpring using Java 21.0.1 with PID 43578 (/Users/moisha/cmpt130/Java/IdeaProjects/hw_3/bezhenarmi-Spring/hw_3/target/classes started by moisha in /Users/moisha/cmpt130/Java/IdeaProjects/hw_3/bezhenarmi-Spring/hw_3)
+w2024-05-27 16:34:52 INFO  No active profile set, falling back to 1 default profile: "default"
+w2024-05-27 16:34:52 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+w2024-05-27 16:34:52 INFO  Finished Spring Data repository scanning in 26 ms. Found 2 JPA repository interfaces.
+w2024-05-27 16:34:53 INFO  Tomcat initialized with port 8080 (http)
+w2024-05-27 16:34:53 INFO  Root WebApplicationContext: initialization completed in 683 ms
+w2024-05-27 16:34:53 INFO  HHH000204: Processing PersistenceUnitInfo [name: default]
+w2024-05-27 16:34:53 INFO  HHH000412: Hibernate ORM core version 6.4.4.Final
+w2024-05-27 16:34:53 INFO  HHH000026: Second-level cache disabled
+w2024-05-27 16:34:53 INFO  No LoadTimeWeaver setup: ignoring JPA class transformer
+w2024-05-27 16:34:54 INFO  HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+w2024-05-27 16:34:54 WARN  SQL Warning Code: 0, SQLState: 00000
+w2024-05-27 16:34:54 WARN  relation "information" does not exist, skipping
+w2024-05-27 16:34:54 WARN  SQL Warning Code: 0, SQLState: 00000
+w2024-05-27 16:34:54 WARN  table "information" does not exist, skipping
+w2024-05-27 16:34:54 WARN  SQL Warning Code: 0, SQLState: 00000
+w2024-05-27 16:34:54 WARN  table "universities" does not exist, skipping
+w2024-05-27 16:34:54 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+w2024-05-27 16:34:54 WARN  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+w2024-05-27 16:34:54 INFO  Tomcat started on port 8080 (http) with context path ''
+w2024-05-27 16:34:54 INFO  Started ApplicationSpring in 2.294 seconds (process running for 2.824)
+w2024-05-27 16:35:04 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+w
